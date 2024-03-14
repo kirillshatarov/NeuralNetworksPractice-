@@ -1,2 +1,2 @@
 # NeuralNetworksPractice-
-My practice with neural networks
+My practice with ML and neural networks
